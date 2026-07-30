@@ -1,15 +1,42 @@
-# sufyan-data-analyst-project
-# 📊 Amazon E-Commerce Sales & Performance Analysis
+# 📊 Live Pakistan — Data Analyst Internship Portfolio
 
-An end-to-end Data Analytics project featuring data cleaning, standardization, and an interactive Executive Sales Dashboard built using Microsoft Excel and Python.
+> **Role:** Data Analyst Intern  
+> **Organization:** Live Pakistan  
+> **Status:** Active (2026)
 
-## 🚀 Key Highlights
-* **Data Cleaning & Standardization:** Resolved category vs. sub-category schema mismatches across transaction records.
-* **Executive Dashboard:** Built custom KPI cards tracking **Total Gross Sales**, **Net Revenue**, **Units Sold**, **Average Discount Rate**, and **Delivery Speeds**.
-* **Visual Insights:** Created visual analytics charts covering Category Revenue Breakdown, Sub-Category Performance, Payment Method Distribution, and Supply Chain Durations.
+---
 
-## 🛠️ Tools & Technologies
-* **Excel / Power Query:** Data cleaning, formulas (`SUMIF`, `AVERAGEIF`), dynamic dashboard design.
-* **Python (Pandas & OpenPyXL):** Automated data validation and spreadsheet processing.
-* **Git & GitHub Desktop:** Version control and repository management.
+## 📌 Overview
 
+This repository documents my work, datasets, data processing scripts, and business intelligence deliverables during my **Data Analyst Internship at Live Pakistan**. 
+
+The goal of this internship is to analyze operational and business datasets, perform data cleaning and validation, and build actionable dashboards to support decision-making.
+
+---
+
+## 🛠️ Internship Projects & Weekly Deliverables
+
+### 📂 Week 1: Data Preparation & Exploratory Analysis
+* **File:** `week one.xlsx`
+* **Focus:** Data cleaning, formula-driven summaries (`SUMIF`, `AVERAGEIF`), and preliminary insights generation.
+* **Key Tasks:**
+  * Cleaned and structured raw transactional dataset for analysis.
+  * Verified data types and eliminated missing or duplicate records.
+  * Created baseline metrics for operational performance tracking.
+
+---
+
+## 🧰 Tools & Technologies Used
+
+* **Spreadsheets:** Microsoft Excel / Power Query (Advanced Formulas, Pivot Tables, Data Models)
+* **Data Processing:** Python (`Pandas`, `OpenPyXL`)
+* **Version Control:** Git & GitHub Desktop
+* **Documentation:** Offer Letter & Internship Records (`docs/`)
+
+---
+
+## 📬 Contact & Links
+
+* **Intern:** Sufyan Ahmad
+* **LinkedIn:** [Your LinkedIn Profile URL Here]
+* **GitHub Repository:** `sufyan-data-analyst-project`
