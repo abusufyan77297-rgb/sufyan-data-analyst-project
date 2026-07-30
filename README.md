@@ -38,5 +38,5 @@ The goal of this internship is to analyze operational and business datasets, per
 ## 📬 Contact & Links
 
 * **Intern:** Sufyan Ahmad
-* **LinkedIn:** [Your LinkedIn Profile URL Here]
+* **LinkedIn:** www.linkedin.com/in/sufyan-ahmad-98a7ab246
 * **GitHub Repository:** `sufyan-data-analyst-project`
