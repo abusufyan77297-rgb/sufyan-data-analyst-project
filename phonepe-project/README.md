@@ -40,6 +40,27 @@ An end-to-end, interactive **UPI Transactions Dashboard** built purely in **Micr
    - Applied Custom Number Formatting (`"₹ "0.00,," Cr"`) to display large currency values clearly in Crores (Cr) and Lakhs (L).
    - Applied Conditional Formatting (Color Scales) for the Day-vs-Hour Heatmap.
 5. **Dashboard UI/UX:** Formatted cohesive color themes, card shadows, aligned chart structures, and integrated multi-slicer connections for a seamless user experience.
+6. ---
+
+## 💡 Key Business Insights
+
+1. **Peak Activity:** Transaction volume peaks heavily during evening hours (6 PM – 9 PM / 18:00 – 21:00) across all weekdays.
+2. **Dominant Payment Type:** **P2M (Person-to-Merchant)** accounts for the highest transaction value (~₹18.88 Cr).
+3. **App Market Leader:** **PhonePe** leads the app market share with **48.26%**, followed by Google Pay at **21.88%**.
+4. **Top States:** **Maharashtra** and **Karnataka** drive the highest transaction volumes in India.
+
+---
+
+## 👤 Author
+
+- **Name:** Sufyan Ahmad
+- **Role:** Data Analyst / IT Student
+- **Tools:** Microsoft Excel | Power BI | SQL | Python
+- **Portfolio:** [Live Pakistan Intern](https://www.livepakistan.site/intern)
+
+---
+
+⭐ **If you find this project useful, feel free to give it a star!**
 
 ---
 
