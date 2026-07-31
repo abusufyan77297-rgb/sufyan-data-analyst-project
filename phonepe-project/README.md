@@ -6,7 +6,8 @@ An end-to-end, interactive **UPI Transactions Dashboard** built purely in **Micr
 
 ## 📊 Dashboard Preview
 
-![UPI Transactions Dashboard Preview]([Your_Image_Link_Here](https://qaedpk-my.sharepoint.com/:i:/g/personal/3640117670485_qaed_edu_pk/IQDE2QWT3JIZTqBxgLAWUKbBATbcfxbtCs3v2A5E5S0u9Xc?e=schdpJ))
+<img width="1947" height="1315" alt="Screenshot 2026-08-01 020548" src="https://github.com/user-attachments/assets/05378cab-f084-4112-8451-f8de83506861" />
+
 
 ---
 
