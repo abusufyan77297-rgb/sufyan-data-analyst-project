@@ -1,6 +1,6 @@
 # 🛒 Retail Sales & Performance Analysis (Superstore Dataset)
 
-![Dashboard Overview](Dash_board_%20overview.png)
+![Dashboard Overview](Dash_board_overview.png)
 
 ## 📌 Project Overview
 This project presents an end-to-end data analytics and visualization solution for a retail superstore. Using historical sales data (2014–2017), an interactive executive dashboard was constructed in Microsoft Excel to evaluate revenue trends, profitability drivers, regional performance, and product performance metrics.
@@ -36,7 +36,7 @@ The interactive dashboard provides high-level executive KPIs alongside granular 
 ## 📸 Dashboard Preview
 
 ### 1. Main Dashboard View
-![Dashboard Overview](Dash_board_%20overview.png)
+![Dashboard Overview](Dash_board_overview.png)
 
 ### 2. Interactive Filtered View
 ![Filtered View](Dashboard_Filtered_View.png)
