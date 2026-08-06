@@ -57,7 +57,9 @@ An end-to-end, interactive **UPI Transactions Dashboard** built purely in **Micr
 - **Role:** Data Analyst / IT Student
 - **Tools:** Microsoft Excel | Power BI | SQL | Python
 - **Portfolio:** [Live Pakistan Intern](https://www.livepakistan.site/intern)
+## 🎥 Project Video Demo
 
+[Click here to watch Video Demo](https://github.com/abusufyan77297-rgb/sufyan-data-analyst-project/raw/main/phonepe-project/Video%20Project.mp4)
 ---
 
 ⭐ **If you find this project useful, feel free to give it a star!**
